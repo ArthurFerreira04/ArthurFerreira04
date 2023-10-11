@@ -1,1 +1,1 @@
-###  Sistemas de Informação | Desenvolvedor Aplicativos mobile | Java | Kotlin | Excelente comunicação | Aprofundar meu conhecimento | Full stack |
+###  Sistemas de Informação | Desenvolvedor Aplicativos mobile | Kotlin | Excelente comunicação | Aprofundar meu conhecimento | Full stack |
