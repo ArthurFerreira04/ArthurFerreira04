@@ -1,6 +1,6 @@
 
 
-# 👩🏻‍💻 Arthur Ferreira
+# 👨🏻‍💻 Arthur Ferreira
 
 **`Desenvolvedora Mobile`**
 
@@ -75,28 +75,25 @@ Sou movido(a) por aprendizado contínuo e por construir soluções bem estrutura
 ---
 
 ## Stack
-**Mobile:** Swift, UIKit (ViewCode), Android, Flutter  
-**Arquitetura:** MVVM/MVP, Clean, Coordinator, DI  
-**Qualidade:** XCTest, testes unitários, lint, CI  
-**APIs:** URLSession, Codable, tratamento de erros, retries
+
+**iOS (Swift):** UIKit com ViewCode e Auto Layout, componentização de UI, **gerenciamento de memória com ARC**, value vs reference types, closures, protocolos e extensões  
+**Gerenciamento de Dependências:** Swift Package Manager (SPM), organização modular e versionamento  
+**Arquitetura:** MVVM/MVP, Clean Architecture, Coordinator, Injeção de Dependência  
+**Qualidade:** XCTest, testes unitários, mocks, lint e CI  
+**Networking:** URLSession, Codable, erros tipados, retries e timeout
 
 ---
 
 ### 📊 Estatísticas
 
-<p>
+<p align="center">
   <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=ArthurFerreira04&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=ArthurFerreira04&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+    height="170"
   />
-  
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurFerreira04&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurFerreira04&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
+    height="170"
   />
 </p>
+
